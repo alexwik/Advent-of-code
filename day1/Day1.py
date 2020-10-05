@@ -1,4 +1,4 @@
-f = open("test1.txt","r")
+f = open("day1.txt","r")
 x=0
 while True:
     char = f.read(1)
